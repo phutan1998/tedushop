@@ -1,0 +1,6 @@
+D:\Visual\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\Visual\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\Visual\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
+D:\Visual\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\Visual\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\Visual\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
